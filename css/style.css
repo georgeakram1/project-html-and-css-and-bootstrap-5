@@ -1,0 +1,344 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-brand {
+    color: #62ecc1;
+    font-size: 26px;
+}
+.offcanvas-title {
+    color: #62ecc1;
+    font-size: 26px;
+}
+.btn-close-1 svg {
+    color: #62ecc1;
+    font-size: 26px;
+}
+.navbar-1 svg {
+    color: #62ecc1 !important;
+    margin-right: 15px;
+    font-size: 25px;
+}
+.back-video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.contanier-1 {
+    text-align: center;
+}
+.contanier-1 h1  {
+    color: #62ecc1;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 14%;
+    font-weight: 600;
+}
+.contanier-1 h4 {
+    text-align: center;
+    margin-top: 2%;
+    color: white;
+    font-weight: 300;
+    line-height: 3rem;
+    font-size: 25px;
+    margin-bottom: 3%;
+}
+.btn-main-1 {
+    color: #222589 !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 23px;
+    background-color: white;
+    border-radius: 30px;
+    padding-left: 27px;
+    padding-right: 27px;
+    font-weight: 500;
+    margin-right: 20px;
+}
+.btn-main-2 {
+    color: #62ecc1 !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    padding: 20px;
+    border-radius: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-weight: 500;
+    border: solid 3px #62ecc1;
+}
+section {
+    margin-top: 45px;
+}
+section a {
+    color: #fff !important;
+    text-decoration: none;
+    padding: 19px;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-weight: 500;
+    background-color: #222589;
+}
+section h2 {
+    color: #222589;
+    margin-top: 40px;
+    font-size: 40px;
+}
+section p {
+    color: #999999 !important;
+}
+.feature {
+    background-color: #62ecc1;
+    padding-bottom: 70px;
+}
+.feature {
+    margin-top: 70px;
+}
+.feature h1 {
+    text-align: center;
+    color: #222589;
+    padding-top: 70px;
+    padding-bottom: 60px;
+}
+.feature svg {
+    color: #222589;
+    font-size: 48px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.feature h5 {
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.floot {
+    float: left;
+    margin-right: 30px;
+}
+.Columns {
+    background-color: #222589;
+}
+.Columns h2 {
+    color: #fff;
+    padding-top: 40px;
+    font-size: 26px;
+    font-weight: 400;
+}
+.Columns h1 {
+    color: #fff;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.Columns h3 {
+    color: #222589;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.Columns p {
+    color: #222589;
+    padding-bottom: 30px;
+}
+.Columns a {
+    color: #fff !important;
+    text-decoration: none;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 35px;
+    border-radius: 35px;
+    font-weight: 500;
+    background-color: #222589;
+}
+.what-we-do {
+    background-color: #62ecc1;
+    margin-top: -20px;
+}
+.what-we-do h1 {
+    color: #222589;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-size: 50px;
+    font-weight: 600;
+}
+.what-we-do h2 {
+    color: black; 
+    font-size: 25px;
+}
+.contant {
+    background-image: linear-gradient( #62ecc1 , #222589);;
+}
+.contant h1 {
+    color: #222589;
+    margin-top: 15px;
+    font-weight: 600;
+    font-size: 50px;
+    padding-bottom: 30px;
+}
+.contant h4 {
+    font-size: 22px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+    font-weight: 300;
+    color: #fff;
+}
+.contant a {
+    color: #fff !important;
+    text-decoration: none;
+    padding: 13px;
+    padding-left: 30px;
+    padding-right: 35px;
+    border-radius: 35px;
+    font-weight: 500;
+    background-color: #222589;
+}
+.bg-img {
+    background-image: url(https://b.top4top.io/p_2614ogsyn1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-img {
+    text-align: center;
+}
+.bg-img h1 {
+    color: white;
+    padding-top: 40%;
+    font-weight: 700;
+    font-size: 60px;
+    padding-bottom: 30px;
+    font-style: italic;
+}
+.bg-img a {
+    color: #222589 !important;
+    text-decoration: none;
+    padding: 13px;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-right: 35px;
+    border-radius: 35px;
+    font-weight: 600;
+    background-color: #fff;
+    border: solid 2px #52af92;
+}
+.bg-img p {
+    padding-top: 20%;
+    padding-bottom: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+.products svg {
+    color: gray;
+    font-size: 25px;
+}
+.contant-2 {
+    padding-bottom: 20px;
+    padding-top: 35px;
+    padding: 30px;
+}
+.contant-2 h1 {
+    color: #222589;
+    font-weight: 700;
+    font-size: 60px;
+    padding-bottom: 15px;
+}
+.About {
+    background-color: #62ecc1;
+}
+.About h1 {
+    color: #222589;
+    padding-top: 100px;
+    font-weight: 700;
+    font-size: 60px;
+}
+.About h6 {
+    font-weight: 700;
+}
+.About p {
+    color: white;
+    font-weight: 500;
+    font-size: larger;
+}
+.About h3 {
+    color: #fff;
+    font-size: 20px;
+}
+.About img {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+footer {
+    display: flex;
+    background-color: #222589;
+    justify-content: center;
+}
+footer h5 {
+    padding-right: 10px;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer a {
+    text-decoration: none;
+    color: #62ecc1;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+footer a:hover {
+    color: #fff;
+}
+@media (max-width:1286px){
+    .contanier-1 h1 {
+    font-size: 45px;
+    padding-top: 50%;
+    padding-bottom: 25px;
+     }
+}
+@media (max-width:1286px){
+    .contanier-1 h4 {
+    padding-bottom: 35px;
+    font-size: 22px;
+    line-height: 2rem;
+    margin-bottom: 30px;
+     }
+}
+@media (max-width:1286px){
+    .feature h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:1286px){
+    .Columns h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:1286px){
+    .what-we-do h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:1286px){
+    .contant h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:1286px){
+    .contant-2 h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:1286px){
+    .About h1 {
+    font-size: 35px;
+     }
+}
+@media (max-width:600px){
+    section {
+    margin-top: 350px;
+     }
+}
